@@ -1,0 +1,55 @@
+INSERT INTO public.studygroup_user (user_id,studygroup_id) VALUES
+	 (10,1),
+	 (11,1),
+	 (12,1),
+	 (13,1),
+	 (14,1),
+	 (15,1),
+	 (16,1),
+	 (17,1),
+	 (18,1),
+	 (19,1);
+INSERT INTO public.studygroup_user (user_id,studygroup_id) VALUES
+	 (20,2),
+	 (21,2),
+	 (22,2),
+	 (23,2),
+	 (24,2),
+	 (25,2),
+	 (26,2),
+	 (27,2),
+	 (28,2),
+	 (29,2);
+INSERT INTO public.studygroup_user (user_id,studygroup_id) VALUES
+	 (30,3),
+	 (31,3),
+	 (32,3),
+	 (33,3),
+	 (34,3),
+	 (35,3),
+	 (36,3),
+	 (37,3),
+	 (38,3),
+	 (39,3);
+INSERT INTO public.studygroup_user (user_id,studygroup_id) VALUES
+	 (40,4),
+	 (41,4),
+	 (42,4),
+	 (43,4),
+	 (44,4),
+	 (45,4),
+	 (46,4),
+	 (47,4),
+	 (48,4),
+	 (49,4);
+INSERT INTO public.studygroup_user (user_id,studygroup_id) VALUES
+	 (50,5),
+	 (51,5),
+	 (52,5),
+	 (53,5),
+	 (54,5),
+	 (55,5),
+	 (56,5),
+	 (57,5),
+	 (58,5),
+	 (59,5);
